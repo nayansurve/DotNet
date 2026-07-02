@@ -1,0 +1,12 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\bin\Debug\net9.0\Cataog.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\bin\Debug\net9.0\Cataog.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\bin\Debug\net9.0\Cataog.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\Cataog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\Cataog.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\Cataog.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\Cataog.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\Cataog.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\Cataog.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\refint\Cataog.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\Cataog.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\ECommerce\Cataog\obj\Debug\net9.0\ref\Cataog.dll
