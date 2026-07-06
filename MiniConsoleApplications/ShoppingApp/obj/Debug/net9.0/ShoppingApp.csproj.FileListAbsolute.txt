@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\bin\Debug\net9.0\ShoppingApp.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\bin\Debug\net9.0\ShoppingApp.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\bin\Debug\net9.0\ShoppingApp.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\bin\Debug\net9.0\ShoppingApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\bin\Debug\net9.0\ShoppingApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\refint\ShoppingApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ShoppingApp.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\ShoppingApp\obj\Debug\net9.0\ref\ShoppingApp.dll

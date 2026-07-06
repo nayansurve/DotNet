@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\bin\Debug\net9.0\HelloDotnetApp.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\bin\Debug\net9.0\HelloDotnetApp.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\bin\Debug\net9.0\HelloDotnetApp.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\bin\Debug\net9.0\HelloDotnetApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\bin\Debug\net9.0\HelloDotnetApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\refint\HelloDotnetApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\HelloDotnetApp.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\HelloDotnetApp\obj\Debug\net9.0\ref\HelloDotnetApp.dll
