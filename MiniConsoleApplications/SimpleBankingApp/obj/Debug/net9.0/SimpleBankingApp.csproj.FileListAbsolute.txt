@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\bin\Debug\net9.0\SimpleBankingApp.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\bin\Debug\net9.0\SimpleBankingApp.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\bin\Debug\net9.0\SimpleBankingApp.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\bin\Debug\net9.0\SimpleBankingApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\bin\Debug\net9.0\SimpleBankingApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\refint\SimpleBankingApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\SimpleBankingApp.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\SimpleBankingApp\obj\Debug\net9.0\ref\SimpleBankingApp.dll
