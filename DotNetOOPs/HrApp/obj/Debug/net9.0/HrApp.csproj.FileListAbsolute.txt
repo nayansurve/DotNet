@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\bin\Debug\net9.0\HrApp.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\bin\Debug\net9.0\HrApp.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\bin\Debug\net9.0\HrApp.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\bin\Debug\net9.0\HrApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\bin\Debug\net9.0\HrApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\refint\HrApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\HrApp.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\HrApp\obj\Debug\net9.0\ref\HrApp.dll
