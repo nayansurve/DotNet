@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\HelloDotnetApp\\HelloDotnetApp.csproj": {}
+    "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\GraphicsApp\\GraphicsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\HelloDotnetApp\\HelloDotnetApp.csproj": {
+    "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\GraphicsApp\\GraphicsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\HelloDotnetApp\\HelloDotnetApp.csproj",
-        "projectName": "HelloDotnetApp",
-        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\HelloDotnetApp\\HelloDotnetApp.csproj",
+        "projectUniqueName": "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\GraphicsApp\\GraphicsApp.csproj",
+        "projectName": "GraphicsApp",
+        "projectPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\GraphicsApp\\GraphicsApp.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\HelloDotnetApp\\obj\\",
+        "outputPath": "C:\\Users\\sarth\\OneDrive\\Desktop\\TAP_Git Nayana\\DotNet\\MiniConsoleApplications\\GraphicsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\bin\Debug\net9.0\GraphicsApp.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\bin\Debug\net9.0\GraphicsApp.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\bin\Debug\net9.0\GraphicsApp.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\bin\Debug\net9.0\GraphicsApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\bin\Debug\net9.0\GraphicsApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\refint\GraphicsApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\GraphicsApp.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\MiniConsoleApplications\GraphicsApp\obj\Debug\net9.0\ref\GraphicsApp.dll
