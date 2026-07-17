@@ -1,0 +1,3 @@
+1,Nayan,50000,Pune
+2,Sarthak,60000,Mumbai
+3,Priya,55000,Kolhapur

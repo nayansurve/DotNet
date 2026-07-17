@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cataog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eabd61a27c757b703f6e0f6a44455b7117d60182")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18ed50474d60c832ded53f221b2e7fe965ddf4df")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cataog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cataog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

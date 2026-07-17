@@ -62,7 +62,7 @@ public class Program
 
                 case 2:
 
-                    cart.DisplayCart();
+                  //  cart.DisplayCart();
 
                     Console.Write("Enter Product Name to Remove: ");
                     string productNameToRemove = Console.ReadLine();

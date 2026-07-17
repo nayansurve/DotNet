@@ -1,15 +1,18 @@
 namespace HrApp;
 public abstract class Employee
 {
-    protected int empId;
-    protected string empName;
-    protected double basicSalary;
+    public int empId;
+    public string empName;
+    public double basicSalary;
 
-    public Employee(int empId,string empName,double basicSalary)
+    public string location;
+
+    public Employee(int empId,string empName,double basicSalary,string location)
     {
         this.empId=empId;
         this.empName=empName;
         this.basicSalary=basicSalary;
+        this.location=location;
     }
 
     public abstract void DoWork();
@@ -18,5 +21,9 @@ public abstract class Employee
     {
         return basicSalary;
     }
-
+public override string ToString()
+{
+   
+    return $"Employee ID: {empId}, Name: {empName}, Basic Salary: {basicSalary},Location:{location}";
+}
 }
