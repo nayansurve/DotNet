@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\bin\Debug\net9.0\InheritanceUnderstanding.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\bin\Debug\net9.0\InheritanceUnderstanding.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\bin\Debug\net9.0\InheritanceUnderstanding.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\bin\Debug\net9.0\InheritanceUnderstanding.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\bin\Debug\net9.0\InheritanceUnderstanding.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\refint\InheritanceUnderstanding.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\InheritanceUnderstanding.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InheritanceUnderstanding\obj\Debug\net9.0\ref\InheritanceUnderstanding.dll
