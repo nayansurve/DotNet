@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\bin\Debug\net9.0\BankManager.cs.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\bin\Debug\net9.0\BankManager.cs.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\bin\Debug\net9.0\BankManager.cs.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\bin\Debug\net9.0\BankManager.cs.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\bin\Debug\net9.0\BankManager.cs.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\refint\BankManager.cs.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\BankManager.cs.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\SingletonUnderstanding\BankManager.cs\obj\Debug\net9.0\ref\BankManager.cs.dll
