@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\bin\Debug\net9.0\ArryaDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\bin\Debug\net9.0\ArryaDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\bin\Debug\net9.0\ArryaDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\bin\Debug\net9.0\ArryaDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\bin\Debug\net9.0\ArryaDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\refint\ArryaDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ArryaDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\ArryaDemo\obj\Debug\net9.0\ref\ArryaDemo.dll
