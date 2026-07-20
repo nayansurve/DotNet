@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\bin\Debug\net9.0\IntefaceDemo'.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\bin\Debug\net9.0\IntefaceDemo'.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\bin\Debug\net9.0\IntefaceDemo'.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\bin\Debug\net9.0\IntefaceDemo'.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\bin\Debug\net9.0\IntefaceDemo'.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\refint\IntefaceDemo'.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\IntefaceDemo'.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\ExplicitInterfaceUnderstanding\IntefaceDemo'\obj\Debug\net9.0\ref\IntefaceDemo'.dll
