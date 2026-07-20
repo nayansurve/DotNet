@@ -13,3 +13,6 @@
 // }
 
 // // this all are nullable types in c#
+
+// “Think of nullable types as placeholders for optional values. Whenever you fetch data from a database, or have computations where a value may not 
+// exist yet, nullable types give you a safe and expressive way to represent ‘unknown’ without breaking your program.”
