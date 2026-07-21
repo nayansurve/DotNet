@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\bin\Debug\net9.0\JaggedArrayDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\bin\Debug\net9.0\JaggedArrayDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\bin\Debug\net9.0\JaggedArrayDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\bin\Debug\net9.0\JaggedArrayDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\bin\Debug\net9.0\JaggedArrayDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\refint\JaggedArrayDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\JaggedArrayDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\JaggedArrayDemo\obj\Debug\net9.0\ref\JaggedArrayDemo.dll
