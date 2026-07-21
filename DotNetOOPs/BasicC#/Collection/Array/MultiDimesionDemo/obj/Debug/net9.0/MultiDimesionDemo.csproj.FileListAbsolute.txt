@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\bin\Debug\net9.0\MultiDimesionDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\bin\Debug\net9.0\MultiDimesionDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\bin\Debug\net9.0\MultiDimesionDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\bin\Debug\net9.0\MultiDimesionDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\bin\Debug\net9.0\MultiDimesionDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\refint\MultiDimesionDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\MultiDimesionDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\Array\MultiDimesionDemo\obj\Debug\net9.0\ref\MultiDimesionDemo.dll
