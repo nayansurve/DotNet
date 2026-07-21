@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\bin\Debug\net9.0\CollectionDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\bin\Debug\net9.0\CollectionDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\bin\Debug\net9.0\CollectionDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\bin\Debug\net9.0\CollectionDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\bin\Debug\net9.0\CollectionDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\refint\CollectionDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\CollectionDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\Collection\CollectionDemo\obj\Debug\net9.0\ref\CollectionDemo.dll
