@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\bin\Debug\net9.0\ConparisonInterfaceDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\bin\Debug\net9.0\ConparisonInterfaceDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\bin\Debug\net9.0\ConparisonInterfaceDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\bin\Debug\net9.0\ConparisonInterfaceDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\bin\Debug\net9.0\ConparisonInterfaceDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\refint\ConparisonInterfaceDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ConparisonInterfaceDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\ComparisonInterfaces\ConparisonInterfaceDemo\obj\Debug\net9.0\ref\ConparisonInterfaceDemo.dll
