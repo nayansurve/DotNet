@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\bin\Debug\net9.0\DelegateDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\bin\Debug\net9.0\DelegateDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\bin\Debug\net9.0\DelegateDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\bin\Debug\net9.0\DelegateDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\bin\Debug\net9.0\DelegateDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\refint\DelegateDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\DelegateDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\DelegateDemo\obj\Debug\net9.0\ref\DelegateDemo.dll
