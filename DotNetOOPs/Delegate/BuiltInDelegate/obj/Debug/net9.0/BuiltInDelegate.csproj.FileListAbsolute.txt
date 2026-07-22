@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\bin\Debug\net9.0\BuiltInDelegate.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\bin\Debug\net9.0\BuiltInDelegate.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\bin\Debug\net9.0\BuiltInDelegate.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\bin\Debug\net9.0\BuiltInDelegate.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\bin\Debug\net9.0\BuiltInDelegate.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\refint\BuiltInDelegate.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\BuiltInDelegate.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\BuiltInDelegate\obj\Debug\net9.0\ref\BuiltInDelegate.dll
