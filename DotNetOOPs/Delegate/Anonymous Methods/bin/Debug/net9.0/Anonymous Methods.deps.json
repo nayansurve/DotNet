@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Anonymous Methods/1.0.0": {
+        "runtime": {
+          "Anonymous Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anonymous Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
