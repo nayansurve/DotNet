@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\bin\Debug\net9.0\SingleCastDelegate'.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\bin\Debug\net9.0\SingleCastDelegate'.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\bin\Debug\net9.0\SingleCastDelegate'.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\bin\Debug\net9.0\SingleCastDelegate'.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\bin\Debug\net9.0\SingleCastDelegate'.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\refint\SingleCastDelegate'.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\SingleCastDelegate'.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\SingleCastDelegate'\obj\Debug\net9.0\ref\SingleCastDelegate'.dll
