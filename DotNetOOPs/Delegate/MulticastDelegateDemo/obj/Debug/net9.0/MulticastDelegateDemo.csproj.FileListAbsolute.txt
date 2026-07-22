@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\bin\Debug\net9.0\MulticastDelegateDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\bin\Debug\net9.0\MulticastDelegateDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\bin\Debug\net9.0\MulticastDelegateDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\bin\Debug\net9.0\MulticastDelegateDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\bin\Debug\net9.0\MulticastDelegateDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\refint\MulticastDelegateDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\MulticastDelegateDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Delegate\MulticastDelegateDemo\obj\Debug\net9.0\ref\MulticastDelegateDemo.dll
