@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\bin\Debug\net9.0\BuiltInEventDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\bin\Debug\net9.0\BuiltInEventDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\bin\Debug\net9.0\BuiltInEventDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\bin\Debug\net9.0\BuiltInEventDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\bin\Debug\net9.0\BuiltInEventDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\refint\BuiltInEventDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\BuiltInEventDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BuiltInEventDemo\obj\Debug\net9.0\ref\BuiltInEventDemo.dll

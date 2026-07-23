@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BuiltInEventDemo/1.0.0": {
+        "runtime": {
+          "BuiltInEventDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuiltInEventDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
