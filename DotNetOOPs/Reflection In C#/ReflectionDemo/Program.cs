@@ -11,5 +11,10 @@ public class Program
         Type type=s.GetType();
 
         Console.WriteLine(type);
+         int number = 50;
+
+        Type t = number.GetType();
+
+        Console.WriteLine(t);
     }
 }
