@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\bin\Debug\net9.0\BankAccountEventDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\bin\Debug\net9.0\BankAccountEventDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\bin\Debug\net9.0\BankAccountEventDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\bin\Debug\net9.0\BankAccountEventDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\bin\Debug\net9.0\BankAccountEventDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\refint\BankAccountEventDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\BankAccountEventDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\BankAccountEventDemo\obj\Debug\net9.0\ref\BankAccountEventDemo.dll
