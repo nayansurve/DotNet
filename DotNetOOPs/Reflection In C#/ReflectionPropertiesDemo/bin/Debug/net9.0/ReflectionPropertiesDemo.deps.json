@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ReflectionPropertiesDemo/1.0.0": {
+        "runtime": {
+          "ReflectionPropertiesDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReflectionPropertiesDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
