@@ -3,7 +3,7 @@ namespace BankApp;
 public sealed class BankManagerDemo
 {
     private static BankManagerDemo? _instance=null;
-
+  
 
     private BankManagerDemo()
     {

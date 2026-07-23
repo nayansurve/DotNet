@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\bin\Debug\net9.0\SimpleNotifyApp.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\bin\Debug\net9.0\SimpleNotifyApp.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\bin\Debug\net9.0\SimpleNotifyApp.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\bin\Debug\net9.0\SimpleNotifyApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\bin\Debug\net9.0\SimpleNotifyApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\refint\SimpleNotifyApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\SimpleNotifyApp.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\Events\SimpleNotifyApp\obj\Debug\net9.0\ref\SimpleNotifyApp.dll

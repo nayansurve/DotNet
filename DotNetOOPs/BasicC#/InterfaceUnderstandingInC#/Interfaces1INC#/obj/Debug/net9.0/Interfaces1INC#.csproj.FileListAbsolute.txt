@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\bin\Debug\net9.0\Interfaces1INC#.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\bin\Debug\net9.0\Interfaces1INC#.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\bin\Debug\net9.0\Interfaces1INC#.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\bin\Debug\net9.0\Interfaces1INC#.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\bin\Debug\net9.0\Interfaces1INC#.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\refint\Interfaces1INC#.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\Interfaces1INC#.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\InterfaceUnderstandingInC#\Interfaces1INC#\obj\Debug\net9.0\ref\Interfaces1INC#.dll

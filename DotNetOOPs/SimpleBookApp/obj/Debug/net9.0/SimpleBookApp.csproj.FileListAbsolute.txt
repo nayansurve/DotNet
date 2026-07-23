@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\bin\Debug\net9.0\SimpleBookApp.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\bin\Debug\net9.0\SimpleBookApp.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\bin\Debug\net9.0\SimpleBookApp.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\bin\Debug\net9.0\SimpleBookApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\bin\Debug\net9.0\SimpleBookApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\refint\SimpleBookApp.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\SimpleBookApp.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\SimpleBookApp\obj\Debug\net9.0\ref\SimpleBookApp.dll

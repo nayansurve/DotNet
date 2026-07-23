@@ -19,9 +19,15 @@ public class Team
          players[8] = new Player(9, "Alexis Mac Allister", 20, "Midfielder", 28, "Argentina", 1700000m);
          players[9] = new Player(10, "Angel Di Maria", 11, "Winger", 38, "Argentina", 900000m);
          players[10] = new Player(11, "Emiliano Martinez", 23, "Goalkeeper", 34, "Argentina", 1300000m);
+
+
+        
     }
 
    // Indexer
+   //means here we indexer as to get object as an array
+
+
 
    public Player this[int index]
     {
@@ -34,12 +40,21 @@ public class Team
             players[index]=value;
         }
     }
+    
 
     public void DisplayPlayers()
     {
         foreach (Player thePlayer in players)
         {
             Console.WriteLine(thePlayer.Name);
+        }
+    }
+
+    public void DisplayPortugal()
+    {
+        foreach()
+        {
+            
         }
     }
  }

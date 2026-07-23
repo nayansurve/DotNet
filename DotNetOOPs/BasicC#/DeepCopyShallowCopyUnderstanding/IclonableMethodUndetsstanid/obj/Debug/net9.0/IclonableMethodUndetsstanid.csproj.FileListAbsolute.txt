@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\bin\Debug\net9.0\IclonableMethodUndetsstanid.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\bin\Debug\net9.0\IclonableMethodUndetsstanid.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\bin\Debug\net9.0\IclonableMethodUndetsstanid.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\bin\Debug\net9.0\IclonableMethodUndetsstanid.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\bin\Debug\net9.0\IclonableMethodUndetsstanid.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\refint\IclonableMethodUndetsstanid.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\IclonableMethodUndetsstanid.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\DotNetOOPs\BasicC#\DeepCopyShallowCopyUnderstanding\IclonableMethodUndetsstanid\obj\Debug\net9.0\ref\IclonableMethodUndetsstanid.dll
