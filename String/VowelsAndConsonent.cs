@@ -7,8 +7,9 @@ public class VowelsAndConsonent
         Console.WriteLine("Enter A String = ");
         string str=Console.ReadLine().ToLower();
 
-        int Vowels=0;
-        int consonent=0;
+         int Vowels=0;
+         int consonent=0;
+        
 
         foreach(char ch in str)
         {
