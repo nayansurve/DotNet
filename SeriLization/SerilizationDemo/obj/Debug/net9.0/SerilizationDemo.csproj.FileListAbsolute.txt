@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\bin\Debug\net9.0\SerilizationDemo.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\bin\Debug\net9.0\SerilizationDemo.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\bin\Debug\net9.0\SerilizationDemo.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\bin\Debug\net9.0\SerilizationDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\bin\Debug\net9.0\SerilizationDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\refint\SerilizationDemo.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\SerilizationDemo.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\SeriLization\SerilizationDemo\obj\Debug\net9.0\ref\SerilizationDemo.dll
