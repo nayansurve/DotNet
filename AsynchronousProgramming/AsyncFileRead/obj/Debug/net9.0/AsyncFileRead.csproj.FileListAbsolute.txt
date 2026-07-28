@@ -1,0 +1,15 @@
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\bin\Debug\net9.0\AsyncFileRead.exe
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\bin\Debug\net9.0\AsyncFileRead.deps.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\bin\Debug\net9.0\AsyncFileRead.runtimeconfig.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\bin\Debug\net9.0\AsyncFileRead.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\bin\Debug\net9.0\AsyncFileRead.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.AssemblyInfoInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.AssemblyInfo.cs
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.csproj.CoreCompileInputs.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.sourcelink.json
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\refint\AsyncFileRead.dll
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.pdb
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\AsyncFileRead.genruntimeconfig.cache
+C:\Users\sarth\OneDrive\Desktop\TAP_Git Nayana\DotNet\AsynchronousProgramming\AsyncFileRead\obj\Debug\net9.0\ref\AsyncFileRead.dll
